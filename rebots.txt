@@ -1,0 +1,12 @@
+# Allow all search engines to index the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location (update when you create sitemap)
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Block sensitive or admin areas (optional examples)
+Disallow: /admin/
+Disallow: /config/
+Disallow: /private/
