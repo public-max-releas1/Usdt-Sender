@@ -8,7 +8,7 @@ A **USDT Sender** is a crypto transfer system built for sending and receiving Te
 
 ## 🚀 Overview
 
-This project explains how a USDT sender works in the crypto ecosystem. It is useful for:
+This project demonstration on how a USDT sender works in the crypto ecosystem. It is useful for:
 
 - Crypto developers
 - Blockchain learners
