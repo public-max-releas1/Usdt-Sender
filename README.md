@@ -8,7 +8,7 @@ A **USDT Sender** is a crypto transfer system built for sending and receiving Te
 
 ## 🚀 Overview
 
-This project demonstration on how a USDT sender works in the crypto ecosystem. It is useful for:
+This is project explain on how a USDT sender works in the crypto ecosystem. It is useful for:
 
 - Crypto developers
 - Blockchain learners
@@ -47,7 +47,7 @@ USDT (Tether) is a stablecoin pegged to the US dollar, making it ideal for fast 
 - Low fees
 - Fast confirmations
 - Exchange friendly
-
+- 
 ---
 community and support 
 https://t.me/PTX_Dev
@@ -56,6 +56,9 @@ https://t.me/PTX_Dev
 USDT sender, send USDT, Tether transfer, crypto wallet, TRC20 USDT, ERC20 USDT, BEP20 USDT, crypto payment system, blockchain transfer, stablecoin wallet, USDT transaction app, digital currency transfer, crypto sending tool, secure USDT transfer
 
 ---
+### purpose 
+this  demonstrate on how usdt sender works 
+
 ## 🧠 How It Works (Concept)
 
 node.js https://nodejs.org/en.
